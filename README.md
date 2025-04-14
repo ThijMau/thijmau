@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I’m Thijmen (`@thijmau`)
 
-<!--
-**ThijMau/thijmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 24 y/o engineer and builder from the Netherlands. I work across **software, hardware, and design** — and I care deeply about making things that are **ethical**, **sustainable**, **accessible**, and **built with purpose**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Craft
+
+- **Software** – Full-stack systems, typed backends, clean APIs  
+- **Hardware** – Embedded electronics, prototyping, 3D printing  
+- **Design** – Interfaces with motion, usability, and accessibility  
+- **Media** – Filmmaking, photography, and creative workflows
+
+---
+
+### 🧱 What I'm Working On
+
+- **[Nandax](https://nandax.io)** → A software company focused on sustainable, high-performance digital products  
+- **[Arqel](https://arqel.com)** → A non-financial holding company supporting purpose-driven ventures
+
+You’ll find more of my work, tools, and thoughts at [**thijmau.studio**](https://thijmau.studio)
+
+---
+
+### 📬 Say Hi
+
+- 🌐 Website: [thijmau.studio](https://thijmau.studio)
+- 📧 Email: [`hi@thijmau.studio`](mailto:hi@thijmau.studio)
+- 🧑‍💻 GitHub: [@thijmau](https://github.com/thijmau)
+- 🔗 LinkedIn: [@thijmau](https://www.linkedin.com/in/thijmau)
+- 📸 Instagram: [@thijmau](https://www.instagram.com/thijmau)
+- 💬 Discord: `@thijmau`
