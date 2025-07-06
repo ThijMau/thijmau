@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Thijmen (`@thijmau`)
 
-I’m a 24 y/o engineer and builder from the Netherlands. I work across **software, hardware, and design** — and I care deeply about making things that are **ethical**, **sustainable**, **accessible**, and **built with purpose**.
+I’m a 24 y/o engineer and builder. I work across **software, hardware, and design** — and I care deeply about making things that are **ethical**, **sustainable**, **accessible**, and **built with purpose**.
 
 ---
 
@@ -15,8 +15,8 @@ I’m a 24 y/o engineer and builder from the Netherlands. I work across **softwa
 
 ### 🧱 What I'm Working On
 
-- **[Nandax](https://nandax.io)** → A software company focused on sustainable, high-performance digital products  
 - **[Arqel](https://arqel.com)** → A non-financial holding company supporting purpose-driven ventures
+- **[Nandax](https://nandax.com)** → A software company focused on sustainable, high-performance digital products  
 
 You’ll find more of my work, tools, and thoughts at [**thijmau.studio**](https://thijmau.studio)
 
